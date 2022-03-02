@@ -1,0 +1,54 @@
+Hi Roberto,
+
+I  am Tom, the Partnership from Experfy/ Blockhunters and I would like to thank you for your smart contract audit inquiry and message via our chat..
+
+Experfy aggregates the best techniques for ICOs / TOKENs / smart contracts automated verification. We are helping teams design a secure smart contract/token and monitor the source code for new vulnerabilities and prevent potential hacks and scams. We need only this access to GitHub and information on which smart contracts should be audited.
+
+We work with e.g. Sygnum Bank as a part of their internal verification system and audited 100+ smart contracts on different chains. Our mission is to make blockchain safe.
+
+Please take a look at our independent rating list for our full portfolio.
+
+In terms of your inquiry, we are able to provide you with a Single code verification; it means a basic critical vulnerability audit in less than 4 weeks. We work on ETH / SOL / MATIC / BSC / FNT.
+
+According to SWC Registry, We are covering 29 / 36 security checks.
+
+We're using automated tools for vulnerability discovery that are based on 2 technologies - symbolic execution and fuzzing. All of them are specifically designed for Ethereum Virtual Machine (EVM), which is the smart contract execution environment. It doesn't matter whether the contract logic is focused on token creation or swapping - the tools are set to find critical vulnerabilities that may exist in each type of contract. The tools include e.g Mythril from Consensys as well as our proprietary tools such as Branchmonkey and modified ILF fuzzer.
+
+Our auditors verify the output of the tools and deliver information on whether there is a vulnerability in the code.
+
+Experfy benefits:
+Simple 10-scale security rating based on the code quality published on our website
+Detailed information about potential threats or vulnerabilities for the team
+CEX / DEX friendly technical source code analysis
+Independent public rating list
+Network monitoring for creating copycat/scam tokens
+Anti-whale monitor and alert system
+Potential hack attempts alert
+KYC.key
+Single Code Verification delivery
+
+Quote: $7,199
+
+How to start?
+To start we will need your data for the invoice (Company Name / Address / VAT ID).
+You are paying the invoice (Crypto payments are available via our Binance adress 3JDH32QH3h5PhhWEyXcy5ynmBJxtaLj6qH ).
+We are starting the single code verification. In the meantime, you are providing us with a project description. Please follow these rules:
+Short project summary (max 300 words)
+Main token features (up to 6 bullet points)
+Token distribution
+Tokenomics description (max 500 words)
+Upload it in this file with the name of your token
+
+Dos and dont's:
+Don't use images
+Marketing and sales descriptions are COMPLETELY prohibited. We focus only on crucial technical and economical information.
+Make your description as formal as possible. We cooperate with banks and enterprise investors, not teenagers.
+Try to be very clear about the mechanism of the token. We want to understand the project fully just by reading this description. )
+
+You receive code verification results. To have the rating published we need a smart contract address + token symbol
+
+If you have any additional questions please feel free to contact me anytime and let us talk :) Looking forward to potential questions. 
+
+All the best 
+Tom
+
