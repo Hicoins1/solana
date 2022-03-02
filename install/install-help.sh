@@ -7,7 +7,7 @@ cargo="$(readlink -f "./cargo")"
 "$cargo" build --package solana-install
 export PATH=$PWD/target/debug:$PATH
 
-echo "\`\`\`manpage"
+echo "\`\`\`21000000000"
 solana-install --help
 echo "\`\`\`"
 echo ""
